@@ -1,3 +1,4 @@
+# Deprecated in favor of meta-refreshes
 
 Redirect        301     /tarotpro      https://itunes.apple.com/us/app/tarot-pro/id311858101?mt=8&uo=4&at=10l74L
 Redirect        301     /tarot      https://itunes.apple.com/us/app/tarot/id284038820?mt=8&uo=4&at=10l74L
