@@ -1,0 +1,8 @@
+
+Redirect        301     /tarotpro      https://itunes.apple.com/us/app/tarot-pro/id311858101?mt=8&uo=4&at=10l74L
+Redirect        301     /tarot      https://itunes.apple.com/us/app/tarot/id284038820?mt=8&uo=4&at=10l74L
+Redirect		301		/ravelight	https://itunes.apple.com/us/app/rave-light/id288106350?mt=8&uo=4&at=10l74L
+Redirect		301		/whackpack	https://itunes.apple.com/us/app/creative-whack-pack/id307306326?mt=8&uo=4&at=10l74L
+
+RewriteEngine on
+RewriteRule ^$ http://philipkd.com/ [R,L]
